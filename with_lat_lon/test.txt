@@ -1,0 +1,98 @@
+fortname,district
+Ahivant Fort,Nashik
+Ahmednagar Fort,Ahmednagar
+Ajinkyatara,Satara
+Akluj Fort,Solapur
+Akola Fort,Akola
+Anjaneri,Nashik
+Arnala Fort,Palghar
+Asheri Fort,Palghar
+Balapur Fort,Akola
+Daulatabad Fort,Aurangabad
+Dhodap,Nashik
+Dhunda Fort,Nashik
+Durgadi Fort,Thane
+Gawilghur,Amravati
+Ghodbunder Fort,Thane
+Gowalkot,Ratnagiri
+Irshalgad,Raigad
+Jalna Fort,Jalna
+Kaldurg Fort,Palghar
+Kamandurg Fort,Thane
+Mahuli,Thane
+Mangi-Tungi,Nashik
+Pargad,Sindhudurg
+Pavangad,Satara
+Prachitgad,Ratnagiri
+Ratangad,Ahmednagar
+Songir,Dhule
+Udgir Fort,Latur
+Vairagad Fort,Gadchiroli
+Yashwantgad Fort,Sindhudurg
+Harishchandragad,Ahmednagar
+Gagangad,Kolhapur
+Shivgad,Kolhapur
+Bombay Castle,Mumbai
+Fort Vasai,Palghar
+Sion Hillock Fort,Mumbai
+Achala Fort,Nashik
+Ankai Fort,Nashik
+Bahula Fort,Nashik
+Chandwad Fort,Nashik
+Javlya Fort,Nashik
+Madangad Fort,Nashik
+Malegaon Fort,Nashik
+Mulher,Nashik
+Rajdher Fort,Dhule
+Ravlya Fort,Nashik
+Tankai Fort,Nashik
+Tringalwadi,Nashik
+Trymbakgad,Nashik
+Bhavangad Fort,Palghar
+Kelve Fort,Palghar
+Shirgaon Fort,Palghar
+Tarapur Fort,Palghar
+Chavand Fort,Pune
+Dhak Bahiri,Pune
+Indori Fort,Pune
+Jivdhan,Pune
+Korigad,Pune
+Lohagad,Pune
+Malhargad,Pune
+Purandar Fort,Pune
+Rajgad Fort,Pune
+Rajmachi,Pune
+Rohida Fort,Pune
+Shaniwar Wada,Pune
+Sinhagad,Pune
+Torna Fort,Pune
+Tung Fort,Pune
+Avchitgad,Raigad
+Birwadi Fort,Raigad
+Kalavantin Durg,Raigad
+Mangad Fort,Raigad
+Murud-Janjira,Raigad
+Padmadurg,Raigad
+Prabalgad,Raigad
+Raigad Fort,Raigad
+Sarasgad,Raigad
+Sudhagad,Raigad
+Surgad,Raigad
+Anjanvel Fort,Ratnagiri
+Bankot Fort,Ratnagiri
+Dativare Fort,Palghar
+Fattegad,Ratnagiri
+Goa Fort,Ratnagiri
+Purnagad,Ratnagiri
+Ratnagiri Fort,Ratnagiri
+Vijaygad Fort,Ratnagiri
+Nivati Fort,Sindhudurg
+Sindhudurg Fort,Sindhudurg
+Bhushangad,Satara
+Jangali Jayagad,Satara
+Kamalgad,Satara
+Makrandgad,Satara
+Pratapgad,Satara
+Sajjangad,Satara
+Vandan Fort,Satara
+Sitabuldi Fort,Nagpur
